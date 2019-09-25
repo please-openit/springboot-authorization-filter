@@ -1,0 +1,15 @@
+
+# IntelliJ
+out/
+.idea/
+
+# gradle
+.gradle/
+build/
+
+# VsCode
+.classpath
+.project
+.settings/
+.vscode/
+bin/
